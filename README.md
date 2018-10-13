@@ -1,5 +1,7 @@
 # Variable Assignment
 
+[![GuardRails badge](https://badges.production.guardrails.io/bennythejudge/ruby-variable-assignment-q-000.svg)](https://www.guardrails.io)
+
 ## Objectives
 
 1. Assign a local variable.
